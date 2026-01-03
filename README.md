@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>💻 I’m currently working on<br>Building cloud infrastructure platforms, backend systems, and scalable services with a focus on reliability, security, and automation.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects related to Cloud Computing, DevOps, Backend APIs, System Design, and Platform Engineering.<br><br>🆘 I’m looking for help with<br>Advanced distributed systems, performance optimization at scale, and community-driven open-source growth.<br><br>🌱 I’m currently learning<br>System Design (HLD & LLD), distributed databases, cloud-native architectures, and advanced DSA for real-world problem solving.<br><br>💬 Ask me about<br>Cloud platforms, Linux, DevOps workflows, backend development (PHP / Java / APIs), system design, and scaling production systems.<br><br>⚡ Fun fact<br>I love turning complex infrastructure problems into simple, automated solutions 🚀
 
 
